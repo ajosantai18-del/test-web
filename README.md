@@ -1,5 +1,3 @@
-# test-web[aprinabag_enhanced.html](https://github.com/user-attachments/files/23854683/aprinabag_enhanced.html)
-<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
